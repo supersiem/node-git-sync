@@ -6,3 +6,4 @@ je gebruikt het alsvolgt
 python cli.py
 ```
 er worden geen niet standaart modules gebruikt dus geen .venv nodig
+gebruik pl voor polarlearn installer
