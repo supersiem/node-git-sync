@@ -1,6 +1,6 @@
+from colorprint import *
 import node_git_sync as ngs
 import os
-from colorprint import *
 
 
 os.system("clear")
